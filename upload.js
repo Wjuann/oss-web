@@ -1,8 +1,8 @@
 Ali_Key = 'LTAI5tMLA9ECbMtYLC9FQe3s';
 Ali_Secret = 'qEuT4t18DFUsymQ3YeKMMmCgrKFFG3';
-BucketName = 'u8sr45';
-Region = "cn-beijing";
-Host = 'https://u8sr45.oss-cn-beijing.aliyuncs.com';
+OSS_BucketName = 'u8sr45';
+OSS_Region = "cn-beijing";
+OSS_Host = 'https://u8sr45.oss-cn-beijing.aliyuncs.com';
 
 g_dirname = ''
 g_object_name = ''
