@@ -1,5 +1,5 @@
-Ali_Key = 'LTAI5tMLA9ECbMtYLC9FQe3s';                       // Ali Cloud OSS ACCESS KEY ID
-Ali_Secret = 'qEuT4t18DFUsymQ3YeKMMmCgrKFFG3';              // Ali Cloud OSS ACCESS KEY SECRET
+Ali_Key = 'LTAI5tNJupr9tb4exFgtTCkh';                       // Ali Cloud OSS ACCESS KEY ID
+Ali_Secret = 'YALa3XHVS4W1axPg9ItoFywdKlIoiC';              // Ali Cloud OSS ACCESS KEY SECRET
 OSS_BucketName = 'u8sr45';                                  // Ali Cloud OSS Bucket name
 OSS_Region = "cn-beijing";                                  // Ali Cloud OSS Endpoint corresponding Region information 
 OSS_Host = 'https://u8sr45.oss-cn-beijing.aliyuncs.com';    // Ali Cloud OSS Bucket Domain
